@@ -161,3 +161,8 @@ kubectl get ingress -n game-2048
 Copy the **ADDRESS** and access the app in your browser.
 
 ---
+
+## Delete the Cluster
+```bash
+eksctl delete cluster --name demo-cluster --region us-east-1
+```
