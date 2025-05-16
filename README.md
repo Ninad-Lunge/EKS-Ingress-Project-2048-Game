@@ -16,8 +16,6 @@ We build a Dockerized application (e.g., a simple Node.js or Flask app), push th
 ### 📦 Tools Used:
 
 * **Amazon EKS** (Elastic Kubernetes Service)
-* **Amazon ECR** (Elastic Container Registry)
-* **GitHub Actions** (CI/CD Pipeline)
 * **kubectl + eksctl**
 * **Helm**
 
